@@ -1,0 +1,5 @@
+money, number = input().split()
+int_money = int(money)
+int_number =int(number)
+print(int_money//int_number)
+print(int_money%int_number)
